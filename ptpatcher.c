@@ -3,8 +3,6 @@
  *
  * Copyright (C) 2012 AndroidRoot.mobi
  *
- * !! UNRELEASED INTERNAL TOOL !!
- *
  */
 #include <stdio.h>
 #include <stdlib.h>
